@@ -10,7 +10,7 @@ Create a **Single Page Application(SPA)** using *HTML/JavaScript/BootStrap CSS* 
 | ----------- | -------- | ----------- | ------------------- |
 | GET | /api/courses | Retrieve all courses | None |
 | GET | /api/courses/:id | Retrieve single course | None |
-| POST | /api/courses | Create new order | { ""courseNo"", ""courseDesc"", ""lastSemTaught"", ""maxStudents"" } | 
+| POST | /api/courses | Create new order | { "courseNo", "courseDesc", "lastSemTaught", "maxStudents" } | 
 
 #### Create MySQL Database
 ```
